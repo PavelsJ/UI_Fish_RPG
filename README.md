@@ -32,3 +32,5 @@ Viļņu sistēmas ieviešana: Wave_Manager pārvalda viļņu skaitu un atlikušo
 Kritisko trāpījumu un īpašo efektu mehānika tiek realizēta caur āķu sistēmu Hook_Manager un atbilstošajām āķu klasēm (Hook_Manager.cs, Hook.cs).
 
 Dažādās zivju pasīvās spējas, piemēram, inde, agresija un veiklība, pievieno stratēģiskus elementus cīņai (Fish.cs , FishData.cs).
+
+https://play.unity.com/en/games/c6cf5536-d372-44a5-a0e2-0be4a0a9d33a/uifishingrpg
